@@ -1,0 +1,10 @@
+# ninja log v5
+6	313	7149382016466120	CMakeFiles/oving1.dir/b.cpp.obj	19c472b8f00908c1
+278	349	7149392910318494	oving1.exe	73e41cbaefe80eaf
+2	278	7149392909632467	CMakeFiles/oving1.dir/main.cpp.obj	d9fbe850df026f9b
+10	295	7149365213842396	CMakeFiles/oving1.dir/header.cpp.obj	97ff4acb9804b506
+2	278	7149355686057597	CMakeFiles/oving1.dir/example_str.cpp.obj	a1ebc97c6933947a
+1	127	7155377213785777	build.ninja	c435c8f013d41775
+7	314	7149362746562236	CMakeFiles/oving1.dir/eksempel.cpp.obj	13913b9d0139a79a
+2	298	7149365332333279	CMakeFiles/oving1.dir/fil_leser.cpp.obj	34042f64efedad84
+2	255	7149383521520034	CMakeFiles/oving1.dir/a.cpp.obj	d8d071ff3541a341
