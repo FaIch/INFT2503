@@ -1,0 +1,7 @@
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/task_1.dir
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/task_2.dir
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/task_4.dir
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/task_5.dir
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/task_6.dir
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

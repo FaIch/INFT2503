@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oving2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "task_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_1-Debug-a5629a6acc2184c5b578.json",
+					"name" : "task_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_2-Debug-f9e12ccfabc17af3eb61.json",
+					"name" : "task_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_4-Debug-4deaa61e1be87c7921ca.json",
+					"name" : "task_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_5-Debug-9c476d9a67fcd6d8bb5d.json",
+					"name" : "task_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_6-Debug-d76d52132e82a7df81b3.json",
+					"name" : "task_6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Joakim/CLionProjects/INFT2503/oving2/cmake-build-debug",
+		"source" : "C:/Users/Joakim/CLionProjects/INFT2503/oving2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
