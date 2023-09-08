@@ -44,4 +44,28 @@ int main(){
 
     cout << "Sentence 1: " << sentence << endl;
     cout << "Sentence start: " << sentence_start << endl;
+
+    size_t found = sentence.find("hallo");
+
+    if (found != string::npos) {
+        cout << "'hallo' found at: " << found << endl;
+    }
+    else {
+        cout << "'hallo' not found" << endl;
+    }
+
+    string pattern = "er";
+    size_t pos = 0;
+
+    while (true) {
+        pos = sentence.find(pattern, pos);
+
+        if(pos == string::npos) {
+            break;
+        }
+
+        cout << "'er' found at " << pos << endl;
+
+        pos += pattern.size();
+    }
 }
