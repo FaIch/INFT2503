@@ -1,3 +1,0 @@
-C:/Users/Joakim/CLionProjects/oving1/cmake-build-debug/CMakeFiles/oving1.dir
-C:/Users/Joakim/CLionProjects/oving1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Joakim/CLionProjects/oving1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
